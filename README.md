@@ -5,6 +5,8 @@
 
 Email signature for academic purposes, using icons from the [fontawesome](https://fontawesome.com/) and [academicons](https://jpswalsh.github.io/academicons/) libraries.
 
+Click [here](https://htmlpreview.github.io/?https://github.com/jkosciessa/mail_signature/blob/main/signature.html) to preview the signature!
+
 ## **Installation**
 -------------
 
