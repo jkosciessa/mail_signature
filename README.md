@@ -18,3 +18,4 @@ Adapted from https://github.com/vinitshahdeo/Email-Signature-Template/
 ## **License**
 -------------
 
+MIT license
